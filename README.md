@@ -3,5 +3,5 @@ Code used in the session on **Building a Knowledge Graph using public RDF resour
 
 The session was part of the virtual event [Connections: Life Sciences & Healthcare](https://neo4j.com/connections/life-sciences-healthcare/). 
 
-* Cypher version [here](https://github.com/jbarrasa/connections-lifesci/blob/master/cypher/build-a-kg.cypher) (it embeds SPARQL fragments using [n10s](https://github.com/neo4j-labs/neosemantics)).
+* Cypher version [here](https://github.com/jbarrasa/connections-lifesci/blob/master/cypher/build-a-kg.cypher) (embeds SPARQL fragments using [n10s](https://github.com/neo4j-labs/neosemantics)).
 * Python notebook version [here](https://github.com/jbarrasa/connections-lifesci/blob/master/python/connections_life_sci.ipynb) using the python driver for neo4j.
